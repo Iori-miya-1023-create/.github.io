@@ -1,5 +1,3 @@
-# .github.io
-抽選
 <!DOCTYPE html>
 <html lang="ja">
 <head>
